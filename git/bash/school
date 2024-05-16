@@ -1,4 +1,4 @@
-echo #!/bin/bash
+#!/bin/bash
 echo "Best school"
 #!/bin/bash
 echo "The school is open!"
